@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<ArrayOfZalba xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Zalba>
+    <Id>acad7d27-fb61-4207-aa31-b5b8004bf9e3</Id>
+    <Sadrzaj>Molim</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-28T13:06:28.6853845+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>1f2c9d58-94c2-492e-bca9-510657ac62e8</Id>
+    <Sadrzaj>Moja zalba</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-29T12:45:49.7364005+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>926cc6bf-1abb-46c9-9b35-44cd511642a0</Id>
+    <Sadrzaj>Moja zalbica</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-29T17:50:12.7939339+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>0dac5bf9-58dd-4499-98c7-608cd7a9becf</Id>
+    <Sadrzaj>ovaj ubica</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-29T17:58:17.7554826+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>true</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>2dea1c3d-7897-488e-b405-fbcf679e42bc</Id>
+    <Sadrzaj>Moja zalba</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-29T18:17:59.9906785+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>9ac3abd8-deae-464f-b148-0f361623693a</Id>
+    <Sadrzaj>1</Sadrzaj>
+    <PosiljaoKorisnik>Unknown</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T10:55:11.447261+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>true</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>5bf8095a-9474-4dbd-91e2-a1640b797829</Id>
+    <Sadrzaj>aaaa</Sadrzaj>
+    <PosiljaoKorisnik>Unknown</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T10:55:34.011907+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>true</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>04fc06a7-ea37-472e-b56e-84ab8427e743</Id>
+    <Sadrzaj>Nova zalba</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T11:43:36.1932006+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>6c80467f-b599-41d5-9496-b51007595489</Id>
+    <Sadrzaj>Zalbica</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T13:35:33.44548+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>e8f890ad-48c1-4cfc-921b-f72befb40c4f</Id>
+    <Sadrzaj>bomb</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T14:27:08.1126473+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>true</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>257fa6d2-1e33-456c-a81b-d1f34d06ea8a</Id>
+    <Sadrzaj>jedna</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-07-30T14:35:07.1307763+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>bbd5dc6c-47c0-4d93-8453-806f4811acc8</Id>
+    <Sadrzaj>Zdravo</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T08:15:36.9521494+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>00de180d-da15-429d-9e56-96849c883c9a</Id>
+    <Sadrzaj>ccc</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T08:17:06.8751413+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>4e9a5d47-0af7-4142-9d7a-844257590c29</Id>
+    <Sadrzaj>CCCa</Sadrzaj>
+    <PosiljaoKorisnik>CN=Korisnik</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T09:10:40.9140031+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>737a528f-6721-4ef6-9cb4-039eba8ce29f</Id>
+    <Sadrzaj>Zalba</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T09:55:58.6624093+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>b8422dd6-4bd7-4377-8ad2-66b815c51dcb</Id>
+    <Sadrzaj>bomb</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T09:57:45.4312489+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>true</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>7513abd7-e718-4545-92ba-5150c3743eda</Id>
+    <Sadrzaj>backupzalba</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T09:59:07.3244669+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>1d206ba6-e6f1-43eb-8830-f8d88dfddfcd</Id>
+    <Sadrzaj>zalbe</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-08-01T10:00:04.1768815+02:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+  <Zalba>
+    <Id>6e258b9e-7c73-49cf-8a70-4332f2d8086c</Id>
+    <Sadrzaj>molim</Sadrzaj>
+    <PosiljaoKorisnik>CN=nadzorclient, OU=Nadzor</PosiljaoKorisnik>
+    <DatumSlanja>2025-12-11T11:39:19.3870227+01:00</DatumSlanja>
+    <NedozvoljenaSadrzaj>false</NedozvoljenaSadrzaj>
+  </Zalba>
+</ArrayOfZalba>

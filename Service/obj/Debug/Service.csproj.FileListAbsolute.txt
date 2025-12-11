@@ -1,0 +1,24 @@
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Service.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Service.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Common.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Manager.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Common.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\bin\Debug\Manager.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\obj\Debug\Service.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Service\obj\Debug\Service.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Service.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Service.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Common.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Manager.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Common.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\bin\Debug\Manager.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\obj\Debug\Service.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\obj\Debug\Service.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Service\obj\Debug\Service.pdb

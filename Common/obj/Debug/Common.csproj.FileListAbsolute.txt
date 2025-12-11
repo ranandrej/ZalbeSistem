@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\bin\Debug\Common.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\bin\Debug\Common.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\obj\Debug\Common.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\Common\obj\Debug\Common.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\bin\Debug\Common.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\bin\Debug\Common.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\obj\Debug\Common.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\Common\obj\Debug\Common.pdb

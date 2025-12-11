@@ -1,0 +1,29 @@
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\BackupServer.exe.config
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\BackupServer.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\BackupServer.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\BackupService.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\Common.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\Manager.dll
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\BackupService.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\Common.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\bin\Debug\Manager.pdb
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.exe
+C:\Users\Lenovo\OneDrive\Radna povrsina\4.godina, 7.semestar\Osnove informacione bezbednosti infrastrukturnih sistema\ZalbeSistem\BackupServer\obj\Debug\BackupServer.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\BackupServer.exe.config
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\BackupServer.exe
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\BackupServer.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\BackupService.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\Common.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\Manager.dll
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\BackupService.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\Common.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\bin\Debug\Manager.pdb
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\obj\Debug\BackupServer.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\obj\Debug\BackupServer.exe
+C:\Users\Korisnik\Downloads\ZalbeSistem2\ZalbeSistem\BackupServer\obj\Debug\BackupServer.pdb
