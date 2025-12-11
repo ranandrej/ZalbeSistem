@@ -1,4 +1,3 @@
-Here’s a comprehensive GitHub-ready documentation (Markdown). It’s sized for ~4–5 pages when rendered (headings, bullets, code/command snippets). Feel free to drop it into `README.md` or split into docs.
 
 ---
 
